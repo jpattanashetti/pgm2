@@ -1,4 +1,4 @@
-package pgm2;
+
 
 public class Course extends Student {
     int sem;
